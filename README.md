@@ -1,6 +1,6 @@
 This is our second ALX project done in a collaborative effort with a peer.
 
-Authors
+/Authors
 
--Fehintola Oyedeji
--Brian Freeman Jr
+- Fehintola Oyedeji
+- Brian Freeman Jr
